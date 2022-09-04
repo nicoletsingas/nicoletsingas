@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 😄 My name is Nicole Monalisa Tsingas, I´m 21.
+- 😄 My name is Nicole Monalisa Tsingas, I´m 23.
 - 🔭 I’m currently working at Stefanini Consultoria as a Support Analyst. 
 - 🌱 I’m  learning about JavaScript, HTML5 and CSS3.
 
