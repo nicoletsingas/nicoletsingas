@@ -4,7 +4,7 @@
 
 - 😄 My name is Nicole Monalisa Tsingas, I´m 23.
 - 🔭 I’m currently working at Stefanini Consultoria as a Support Analyst. 
-- 🌱 I’m  learning about JavaScript, HTML5 and CSS3.
+- 🌱 I’m  learning about <img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />, <img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />, <img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" /> and more...
 
 ### You can find me:
 
