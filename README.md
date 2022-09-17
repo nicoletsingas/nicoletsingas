@@ -1,17 +1,23 @@
-![degradelaranja](https://user-images.githubusercontent.com/69013055/102911391-ba672780-445a-11eb-83ed-cf7b44ba8def.jpg)
 
-### Hi there 👋
+<h1> Hi there, I'm Nick 👋 </h1>
 
-- 😄 My name is Nicole Monalisa Tsingas, I´m 23.
-- 🔭 I’m currently working at Stefanini Consultoria as a Support Analyst. 
-- 🌱 I’m  learning about ![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}), <img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />, <img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" /> and more...
+My name is Nicole Monalisa Tsingas, I'm 23. <br>
+I'm currently working as an IT Support Analyst, but I want to become a Web Developer, so... <br>
+I'm learning about:
+<div>
+  <img align="center" alt="JavaScript" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-### You can find me:
+<h1>You can find me:</h1>
 
-&#x1F4A1; LinkedIn  <a href="https://www.linkedin.com/in/nicole-tsingas-2079b218b/" target="_blank" rel="external"> /in/nicole-tsingas </a>
+<div> 
+  <a href="https://www.instagram.com/heey_ruiva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nicole-tsingas-2079b218b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.facebook.com/nicole.m.hyuga/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href = "nicolecass27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
 
-&#x1F4F8; Instagram <a href="https://www.instagram.com/heey_ruiva/" target="_blank" rel="external">/heey_ruiva</a>
-
-&#x1F913; Facebook <a href="https://www.facebook.com/nicole.m.hyuga/" target="_blank" rel="external">/nicole.m.tsingas</a>
-
-&#x1F601; Twitter <a href="https://twitter.com/_HanaNick" target="_blank" rel="external">/_HanaNick</a>
