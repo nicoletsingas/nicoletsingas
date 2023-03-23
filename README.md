@@ -2,7 +2,7 @@
 <h1> Hi there, I'm Nick 👋 </h1>
 
 My name is Nicole Monalisa Tsingas, I'm 23. <br>
-I'm currently working as an IT Support Analyst, but I want to become a Web Developer, so... <br>
+I want to become a Web Developer, so... <br>
 I'm learning about:
 <div>
   <img align="center" alt="JavaScript" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
