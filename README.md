@@ -1,7 +1,7 @@
 
 <h1> Hi there, I'm Nick 👋 </h1>
 
-My name is Nicole Monalisa Tsingas, I'm 23. <br>
+My name is Nicole Monalisa Tsingas, I'm 24. <br>
 I want to become a Web Developer, so... <br>
 I'm learning about:
 <div>
