@@ -2,6 +2,7 @@
 <h1> Hi there, I'm Nick 👋 </h1>
 
 My name is Nicole Monalisa Tsingas, I'm 24. <br>
+Currently studying at Laboratoria < L > <br>
 I want to become a Web Developer, so... <br>
 I'm learning about:
 <div>
