@@ -1,10 +1,11 @@
 
 <h1> Hi there, I'm Nick 👋 </h1>
 
-My name is Nicole Monalisa Tsingas, I'm 24. <br>
-Currently studying at Laboratoria < L > <br>
-I want to become a Web Developer, so... <br>
-I'm learning about:
+😄 My name is Nicole Monalisa Tsingas, I'm 24. <br>
+🌱 I’m currently studying at Laboratoria < L > <br>
+⚡ Fun fact: I'm a true nerd, I love animes, games, mangás and I build my gaming pc myself <br>
+🚀 I want to become a Web Developer, so... <br>
+🔭 I'm learning about:
 <div>
   <img align="center" alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
