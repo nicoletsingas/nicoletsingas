@@ -9,6 +9,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,vite,figma,firebase&perline=9)](https://skillicons.dev)
 
+<div align="center">
+<a href="https://github.com/nicoletsingas">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoletsingas&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicoletsingas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <h1>You can find me:</h1>
 
 <div> 
