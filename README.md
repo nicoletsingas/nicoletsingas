@@ -2,7 +2,7 @@
 <h1> Hi there, I'm Nick 👋 </h1>
 
 😄 My name is Nicole Monalisa Tsingas, I'm 24. <br>
-🌱 I’m currently studying at Laboratoria < L > <br>
+🌱 I’m currently studying at <a href="https://www.laboratoria.la/br" target="_blank">Laboratoria < L ></a> <br> 
 ⚡ Fun fact: I'm a true nerd, I love animes, games, mangás and I build my gaming pc myself <br>
 🚀 I want to become a Web Developer, so... <br>
 🔭 I'm learning about: <br>
