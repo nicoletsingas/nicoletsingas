@@ -7,7 +7,7 @@
 🚀 I want to become a Web Developer, so... <br>
 🔭 I'm learning about: <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,typescript,react,nodejs,git,vite,figma,firebase&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,typescript,react,nodejs,git,vite,figma,firebase&perline=6)](https://skillicons.dev)
 
 <div align="center">
 <a href="https://github.com/nicoletsingas">
