@@ -3,7 +3,7 @@
 
 😄 My name is Nicole Monalisa Tsingas, I'm 24. <br>
 🚀 I'm a Front-end Developer <br>
-🌱 I’m currently studying at <a href="https://www.laboratoria.la/br" target="_blank">Laboratoria < L ></a> <br> 
+🌱 I'm graduate at <a href="https://www.laboratoria.la/br" target="_blank">Laboratoria < L ></a> bootcamp <br> 
 ⚡ Fun fact: I'm a true nerd, I love animes, games, mangás and I build my gaming pc myself <br>
 🚀 I'm always learning <br>
 ⬇️ Some of my Skills ⬇️<br>
