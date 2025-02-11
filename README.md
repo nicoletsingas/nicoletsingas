@@ -1,7 +1,7 @@
 
 <h1> Hi there, I'm Nick 👋 </h1>
 
-😄 My name is Nicole Monalisa Tsingas, I'm 24. <br>
+😄 My name is Nicole Monalisa Tsingas, I'm 25. <br>
 🚀 I'm a Front-end Developer <br>
 🌱 I'm graduate at Technology Information <br> 
 ⚡ Fun fact: I'm a true nerd, I love animes, games, mangás and I build my gaming pc myself <br>
