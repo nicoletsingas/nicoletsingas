@@ -8,7 +8,7 @@
 🚀 I'm always learning <br>
 ⬇️ Some of my Skills ⬇️<br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,typescript,nodejs,git,vite,jest,mongodb,figma,bootstrap&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,next,typescript,nodejs,git,vite,jest,mongodb,figma,tailwind,docker,gitlab,npm,firebase&perline=6)](https://skillicons.dev)
 
 <div align="center">
 <a href="https://github.com/nicoletsingas">
